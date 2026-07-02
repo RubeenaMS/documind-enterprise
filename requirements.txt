@@ -1,9 +1,10 @@
 langchain
-langchain-openai
+langchain-huggingface
+sentence-transformers
 langchain-community
-pinecone-client
 fastapi
 uvicorn
 unstructured[pdf]
+pinecone
 pydantic
 python-dotenv
