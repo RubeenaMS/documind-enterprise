@@ -74,6 +74,7 @@ def query_knowledge_base(query_text: str):
     print("\n==================== ANSWER ====================")
     print(response.content.strip())
     print("================================================")
+    return response.content
 
 if __name__ == "__main__":
     print("🤖 DocuMind Chatbot Initialized! Type 'exit' or 'quit' to stop.")
