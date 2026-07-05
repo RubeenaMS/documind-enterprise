@@ -8,3 +8,5 @@ unstructured[pdf]
 pinecone
 pydantic
 python-dotenv
+streamlit
+langchain-pinecone
